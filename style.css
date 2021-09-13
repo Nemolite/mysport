@@ -1,0 +1,11 @@
+/*
+Theme Name:     mysport
+Theme URI:      http://sport.vandraren.ru/
+Description:    Дочерняя тема для темы extremesport 
+Author:         Nemolite (sergey vushnyakov)
+Author URI:     https://vandraren.ru/
+Template:       extremesport
+Version:        1.0.0
+*/
+
+@import url("../extremesport/style.css");
